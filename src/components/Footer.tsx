@@ -12,7 +12,7 @@ const Footer = () => {
           <div className="space-y-4">
             <h3 className="text-lg font-bold gradient-text">My Status</h3>
             <p className="text-sm text-muted-foreground">
-              Let me know what you have in mind, and I’ll be happy to help!​​​​​​​​​​​​​​​​
+              The choice is yours. Just make it with your eyes open.​​​​​​​​​​​​​​​​
             </p>
           </div>
 

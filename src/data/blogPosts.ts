@@ -102,7 +102,7 @@ Polacode creates beautiful screenshots of your code, perfect for documentation, 
 Part 2: The Perfect Settings Configuration
 Extensions are only half the battle. The real magic happens when you optimize your settings. Here’s a battle-tested configuration that balances performance, aesthetics, and functionality.
 
-Editor Fundamentals
+Editor Garlley
 Start with fonts that support ligatures. Fira Code, Cascadia Code, and JetBrains Mono transform code into something beautiful, with special character combinations rendering as single glyphs. Arrows become actual arrows, not equal signs and greater-than symbols.
     `,
     author: "Portfolio Owner",

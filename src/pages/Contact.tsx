@@ -62,7 +62,7 @@ const Contact = () => {
     {
       icon: Linkedin,
       name: "LinkedIn", 
-      href: "http://linkedin.com/in/muhammadyasir",
+      href: "http://linkedin.com/in/muhammadyasirmalkani",
       color: "hover:shadow-glow-secondary"
     },
     {

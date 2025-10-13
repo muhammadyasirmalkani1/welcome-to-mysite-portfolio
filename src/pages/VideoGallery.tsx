@@ -37,8 +37,8 @@ const VideoGallery = () => {
       id: 4,
       title: "Step 4: Advanced Features",
       description: "Explore advanced features and best practices",
-      thumbnail: "/loading-screen.png",
-      videoUrl: "https://www.youtube.com/embed/3IVCeyrFch4?si=uHKOuuDdVqu-szvc",
+      thumbnail: "/img/",
+      videoUrl: "https://www.youtube.com/embed/GWrJZhZqFwQ?si=jVD9tREYOktU0Wyv",
       duration: "15:10",
       category: "Advanced"
     },

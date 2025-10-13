@@ -135,7 +135,7 @@ const Experience = () => {
                       <div className="mb-6">
                         <h4 className="text-lg font-semibold mb-3 flex items-center gap-2">
                           <TrendingUp size={18} className="text-primary" />
-                          Key Achievements
+                          Cascade
                         </h4>
                         <ul className="grid grid-cols-1 sm:grid-cols-2 gap-2">
                           {exp.achievements.map((achievement, achIndex) => (

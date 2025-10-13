@@ -72,11 +72,9 @@ const About = () => {
             {/* Growth Philosophy */}
             <Card className="glass-card p-8 hover-lift">
               <CardContent className="p-0 space-y-4">
-                <h3 className="text-xl font-semibold text-foreground">Continuous Improvement</h3>
+                <h3 className="text-xl font-semibold text-foreground">Are you still willing to do it?</h3>
                 <p className="text-muted-foreground">
-                  I believe in honest self-reflection. While I sometimes try to do everything on my own because 
-                  I don't like asking for help, I'm actively learning to delegate and communicate better with my team. 
-                  I now see challenges as opportunities to grow and improve my collaborative skills.
+                  I’ll create a realistic, actionable roadmap that balances aggressive wealth-building with sustainable growth. This assumes you’re starting with minimal capital but have time, energy, and willingness to learn.
                 </p>
               </CardContent>
             </Card>

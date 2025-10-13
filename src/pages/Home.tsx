@@ -24,8 +24,8 @@ const Home = () => {
             </h1>
             
             <p className="text-xl md:text-2xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            Freelance <span className="gradient-text-secondary font-semibold">development project websites</span> 
-              {" "} offer unprecedented opportunities for developers to build flexible, lucrative careers on their own terms. Success requires more than technical skills—it demands professionalism, business acumen, and the ability to market yourself effectively. My journey in full stack development has been driven by curiosity and a commitment to excellence.
+            I believe in honest <span className="gradient-text-secondary font-semibold">self-reflection.</span> 
+              {" "} While I sometimes try to do everything on my own because I don't like asking for help, I'm actively learning to delegate and communicate better with my team.
             </p>
           </div>
 

@@ -110,7 +110,7 @@ const Skills = () => {
         {/* Header */}
         <div className="text-center space-y-4 mb-16 animate-slide-up">
           <h1 className="text-4xl md:text-6xl font-bold gradient-text">Skills & Expertise</h1>
-          <p className="text-xl text-muted-foreground">Technologies and tools I work with</p>
+          <p className="text-xl text-muted-foreground">In this comprehensive guide, we’ll explore the best carousel books available, helping you build a library worthy of this magnificent art form.</p>
         </div>
 
         {/* Highlights */}

@@ -26,8 +26,6 @@ const Home = () => {
             <p className="text-xl md:text-2xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
             There’s something magical about <span className="gradient-text-secondary font-semibold">carousels</span> 
               {" "} that transcends the ride itself. The artistry, history, and nostalgia captured in these spinning platforms of wonder deserve to be preserved and celebrated—and what better way than through beautifully crafted books? Whether you’re a serious collector, a casual enthusiast, or simply someone who appreciates folk art and Americana, carousel books offer a window into a bygone era of craftsmanship and joy.
-
-From lavish coffee table volumes filled with stunning photography to scholarly works documenting individual carvers, the world of carousel literature is as rich and varied as the carousels themselves. In this comprehensive guide, we’ll explore the best carousel books available, helping you build a library worthy of this magnificent art form.
             </p>
           </div>
 

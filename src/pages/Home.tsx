@@ -25,7 +25,7 @@ const Home = () => {
             
             <p className="text-xl md:text-2xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
             So, if you're looking <span className="gradient-text-secondary font-semibold">developer</span> 
-              {" "} for your website. Who will take you’re a vision and turn it. Sign, up throughly your newly installed components. Start immediately! To save time, we can securely prefill some of your info, like name, date of birth and address. Then, we'll send you verify your device. It’s about strategy, power, and privacy. This isn’t just about AI. 
+              {" "} for your website. Who will take you’re a vision and turn it. Sign, up throughly your newly installed components. Start immediately! To save time, we can securely prefill some of your info, like name, date of birth and address. This isn’t just about AI. 
             </p>
           </div>
 

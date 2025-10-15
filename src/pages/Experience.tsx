@@ -80,8 +80,7 @@ const Experience = () => {
             Professional Experience
           </h1>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            5+ years of building innovative web solutions and leading development teams. 
-            Here's my journey through the tech industry.
+            Learn how to build for the Web, and have some fun. HTML, CSS, JavaScript, and much more!
           </p>
         </div>
 

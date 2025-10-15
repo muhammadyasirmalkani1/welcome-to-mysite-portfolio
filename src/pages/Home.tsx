@@ -1,4 +1,4 @@
-import { ArrowRight, Download, Github, Linkedin, Mail } from "lucide-react";
+import { ArrowRight, Download, Github, Linkedin, Facebook, Mail } from "lucide-react";
 import { Link } from "react-router-dom";
 import { Button } from "@/components/ui/button";
 
@@ -24,9 +24,8 @@ const Home = () => {
             </h1>
             
             <p className="text-xl md:text-2xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            So, if you're looking <span className="gradient-text-secondary font-semibold">developer</span> 
-              {" "} for your website. Who will take you’re a vision and turn it. Sign, up throughly your newly installed components. Start immediately! To save time, we can securely prefill some of your info, like name, date of birth and address. This isn’t just about AI. 
-            </p>
+            Start immediately! To save time, we can securely <span className="gradient-text-secondary font-semibold">prefill</span> 
+              {" "} some of your info, like name, date of birth and address. This isn’t just about AI. So, if you're looking developer for your create website. Who will take you’re a vision and turn it. Sign, up throughly your newly installed components.  </p>
           </div>
 
           {/* Call to Action Buttons */}

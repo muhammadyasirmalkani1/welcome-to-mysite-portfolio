@@ -92,12 +92,6 @@ const Education = () => {
     }
   ];
 
-  const skills_learned = [
-    { category: "Frontend", skills: ["React", "TypeScript", "Next.js", "Vue.js", "Tailwind CSS"] },
-    { category: "Backend", skills: ["Node.js", "Python", "PostgreSQL", "MongoDB", "Redis"] },
-    { category: "Cloud", skills: ["AWS", "Google Cloud", "Docker", "Kubernetes", "Terraform"] },
-    { category: "Tools", skills: ["Git", "Jenkins", "Figma", "Jira", "Slack"] }
-  ];
 const skills_learned = [
     { 
         category: "Frontend", 

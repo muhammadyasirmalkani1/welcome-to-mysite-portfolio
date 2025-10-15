@@ -33,7 +33,7 @@ const About = () => {
         {/* Header */}
         <div className="text-center space-y-4 mb-16 animate-slide-up">
           <h1 className="text-4xl md:text-6xl font-bold gradient-text">About Me</h1>
-          <p className="text-xl text-muted-foreground">Get to know the person behind the code</p>
+          <p className="text-xl text-muted-foreground">From lavish coffee table volumes filled with stunning photography to scholarly works documenting individual carvers, the world of carousel literature is as rich and varied as the carousels themselves.</p>
         </div>
 
         <div className="grid lg:grid-cols-2 gap-12 items-start">

@@ -20,8 +20,7 @@ const Blog = () => {
             <span className="gradient-text">Blog & Insights</span>
           </h1>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Sharing my experiences, learnings, and thoughts on web development, 
-            career growth, and the ever-evolving tech landscape.
+            Let me create the component and update all blog pages.
           </p>
         </div>
 

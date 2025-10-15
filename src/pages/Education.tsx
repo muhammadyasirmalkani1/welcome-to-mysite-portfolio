@@ -98,6 +98,138 @@ const Education = () => {
     { category: "Cloud", skills: ["AWS", "Google Cloud", "Docker", "Kubernetes", "Terraform"] },
     { category: "Tools", skills: ["Git", "Jenkins", "Figma", "Jira", "Slack"] }
   ];
+const skills_learned = [
+    { 
+        category: "Frontend", 
+        skills: ["React", "TypeScript", "Next.js", "Vue.js", "Tailwind CSS"],
+        style_links: [
+            "https://react.dev/",
+            "https://www.typescriptlang.org/",
+            "https://nextjs.org/",
+            "https://vuejs.org/",
+            "https://tailwindcss.com/"
+        ]
+    },
+    { 
+        category: "Backend", 
+        skills: ["Node.js", "Python", "PostgreSQL", "MongoDB", "Redis"],
+        style_links: [
+            "https://nodejs.org/",
+            "https://www.python.org/",
+            "https://www.postgresql.org/",
+            "https://www.mongodb.com/",
+            "https://redis.io/"
+        ]
+    },
+    { 
+        category: "Cloud", 
+        skills: ["AWS", "Google Cloud", "Docker", "Kubernetes", "Terraform"],
+        style_links: [
+            "https://aws.amazon.com/",
+            "https://cloud.google.com/",
+            "https://www.docker.com/",
+            "https://kubernetes.io/",
+            "https://www.terraform.io/"
+        ]
+    },
+    { 
+        category: "Tools", 
+        skills: ["Git", "Jenkins", "Figma", "Jira", "Slack"],
+        style_links: [
+            "https://git-scm.com/",
+            "https://www.jenkins.io/",
+            "https://www.figma.com/",
+            "https://www.atlassian.com/software/jira",
+            "https://slack.com/"
+        ]
+    }
+];
+
+const skills_learned = [
+    { 
+        category: "Frontend", 
+        skills: [
+            { name: "React", link: "https://react.dev/", level: "Advanced" },
+            { name: "TypeScript", link: "https://www.typescriptlang.org/", level: "Intermediate" },
+            { name: "Next.js", link: "https://nextjs.org/", level: "Advanced" },
+            { name: "Vue.js", link: "https://vuejs.org/", level: "Beginner" },
+            { name: "Tailwind CSS", link: "https://tailwindcss.com/", level: "Advanced" }
+        ]
+    },
+    { 
+        category: "Backend", 
+        skills: [
+            { name: "Node.js", link: "https://nodejs.org/", level: "Advanced" },
+            { name: "Python", link: "https://www.python.org/", level: "Intermediate" },
+            { name: "PostgreSQL", link: "https://www.postgresql.org/", level: "Intermediate" },
+            { name: "MongoDB", link: "https://www.mongodb.com/", level: "Beginner" },
+            { name: "Redis", link: "https://redis.io/", level: "Intermediate" }
+        ]
+    },
+    { 
+        category: "Cloud", 
+        skills: [
+            { name: "AWS", link: "https://aws.amazon.com/", level: "Intermediate" },
+            { name: "Google Cloud", link: "https://cloud.google.com/", level: "Beginner" },
+            { name: "Docker", link: "https://www.docker.com/", level: "Advanced" },
+            { name: "Kubernetes", link: "https://kubernetes.io/", level: "Beginner" },
+            { name: "Terraform", link: "https://www.terraform.io/", level: "Intermediate" }
+        ]
+    },
+    { 
+        category: "Tools", 
+        skills: [
+            { name: "Git", link: "https://git-scm.com/", level: "Advanced" },
+            { name: "Jenkins", link: "https://www.jenkins.io/", level: "Intermediate" },
+            { name: "Figma", link: "https://www.figma.com/", level: "Advanced" },
+            { name: "Jira", link: "https://www.atlassian.com/software/jira", level: "Intermediate" },
+            { name: "Slack", link: "https://slack.com/", level: "Advanced" }
+        ]
+    }
+];
+
+const skills_learned = [
+    { 
+        category: "Frontend", 
+        skills: ["React", "TypeScript", "Next.js", "Vue.js", "Tailwind CSS"]
+    },
+    { 
+        category: "Backend", 
+        skills: ["Node.js", "Python", "PostgreSQL", "MongoDB", "Redis"]
+    },
+    { 
+        category: "Cloud", 
+        skills: ["AWS", "Google Cloud", "Docker", "Kubernetes", "Terraform"]
+    },
+    { 
+        category: "Tools", 
+        skills: ["Git", "Jenkins", "Figma", "Jira", "Slack"]
+    }
+];
+
+// Separate links map for easy access
+const skill_links = {
+    "React": "https://react.dev/",
+    "TypeScript": "https://www.typescriptlang.org/",
+    "Next.js": "https://nextjs.org/",
+    "Vue.js": "https://vuejs.org/",
+    "Tailwind CSS": "https://tailwindcss.com/",
+    "Node.js": "https://nodejs.org/",
+    "Python": "https://www.python.org/",
+    "PostgreSQL": "https://www.postgresql.org/",
+    "MongoDB": "https://www.mongodb.com/",
+    "Redis": "https://redis.io/",
+    "AWS": "https://aws.amazon.com/",
+    "Google Cloud": "https://cloud.google.com/",
+    "Docker": "https://www.docker.com/",
+    "Kubernetes": "https://kubernetes.io/",
+    "Terraform": "https://www.terraform.io/",
+    "Git": "https://git-scm.com/",
+    "Jenkins": "https://www.jenkins.io/",
+    "Figma": "https://www.figma.com/",
+    "Jira": "https://www.atlassian.com/software/jira",
+    "Slack": "https://slack.com/"
+};
 
   return (
     <div className="min-h-screen py-20 px-6">

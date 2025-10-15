@@ -13,7 +13,7 @@ export const LoadingScreen = ({ onComplete }: { onComplete: () => void }) => {
     <div className="fixed inset-0 z-50 flex items-center justify-center bg-background">
       <div className="relative">
         <img 
-          src="/loading-screen.png" 
+          src="/img/DevFort.app.gif" 
           alt="Loading" 
           className="w-64 h-64 object-contain animate-pulse"
         />

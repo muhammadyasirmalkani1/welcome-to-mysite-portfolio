@@ -24,8 +24,8 @@ const Home = () => {
             </h1>
             
             <p className="text-xl md:text-2xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            There’s something magical about <span className="gradient-text-secondary font-semibold">carousels</span> 
-              {" "} that transcends the ride itself. The artistry, history, and nostalgia captured in these spinning platforms of wonder deserve to be preserved and celebrated—and what better way than through beautifully crafted books? Whether you’re a serious collector, a casual enthusiast, or simply someone who appreciates folk art and Americana, carousel books offer a window into a bygone era of craftsmanship and joy.
+            So, if you're looking <span className="gradient-text-secondary font-semibold">developer</span> 
+              {" "} for your website. Who will take you’re a vision and turn it. Sign, up throughly your newly installed components. Start immediately! To save time, we can securely prefill some of your info, like name, date of birth and address. Then, we'll send you verify your device. It’s about strategy, power, and privacy. This isn’t just about AI. 
             </p>
           </div>
 

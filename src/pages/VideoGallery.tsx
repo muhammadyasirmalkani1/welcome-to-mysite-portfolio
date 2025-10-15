@@ -10,7 +10,7 @@ const VideoGallery = () => {
       id: 1,
       title: "Step 1: Introduction & Overview",
       description: "Get started with the basics and understand the fundamentals",
-      thumbnail: "https://img.youtube.com/vi/3IVCeyrFch4/maxresdefault.jpg",
+      thumbnail: "DevFort.app.gif",
       videoUrl: "https://www.youtube.com/embed/3IVCeyrFch4?si=uHKOuuDdVqu-szvc",
       duration: "5:30",
       category: "Beginner"
@@ -19,7 +19,7 @@ const VideoGallery = () => {
       id: 2,
       title: "Step 2: Setup & Configuration",
       description: "Learn how to set up your environment and configure settings",
-      thumbnail: "/loading-screen.png",
+      thumbnail: "/img/DevFort.app.gif",
       videoUrl: "https://www.youtube.com/embed/i5PPRjiAxU8?si=5d60aiNG_khoMKzz",
       duration: "8:45",
       category: "Beginner"
@@ -28,7 +28,7 @@ const VideoGallery = () => {
       id: 3,
       title: "Step 3: Core Concepts",
       description: "Master the essential concepts and techniques",
-      thumbnail: "/loading-screen.png",
+      thumbnail: "DevFort.app.gif",
       videoUrl: "https://www.youtube.com/embed/_k0gSkyxhr8?si=DOe3M9n_S1HPPcC1",
       duration: "12:20",
       category: "Intermediate"

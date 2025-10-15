@@ -108,7 +108,7 @@ const Education = () => {
             <span className="gradient-text">Education & Learning</span>
           </h1>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            My continuous journey of learning and professional development in technology and software engineering.
+      I’ll create a realistic, actionable roadmap that balances aggressive wealth-building with sustainable growth. This assumes you’re starting with minimal capital but have time, energy, and willingness to learn.
           </p>
         </div>
 

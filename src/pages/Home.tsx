@@ -25,7 +25,7 @@ const Home = () => {
             
             <p className="text-xl md:text-2xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
             Start immediately! To save time, we can securely <span className="gradient-text-secondary font-semibold">prefill</span> 
-              {" "} some of your info, like name, date of birth and address. This isn’t just about AI. So, if you're looking developer for your create website. Who will take you’re a vision and turn it.  </p>
+              {" "} some of your info, like name, date of birth and address. This isn’t just about AI. So, if you're looking developer for your create website. Who will take you’re a vision and turn it. Sign, up throughly your newly installed components. </p>
           </div>
 
           {/* Call to Action Buttons */}
@@ -62,6 +62,12 @@ const Home = () => {
             <Link
               to="/contact"
               className="glass-button p-4 rounded-full hover-lift hover:shadow-glow-accent transition-all duration-300"
+            >
+              <Facebook className="w-6 h-6" />
+            </a>
+            <a
+              href="http://linkedin.com/in/muhammadyasirmalkani"
+              className="glass-button p-4 rounded-full hover-lift hover:shadow-glow-secondary transition-all duration-300"
             >
               <Mail className="w-6 h-6" />
             </Link>

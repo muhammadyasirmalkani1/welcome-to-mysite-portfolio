@@ -57,7 +57,6 @@ const About = () => {
                   </p>
                   
                   <p>
-                    Whether it's architecting a complex backend system, crafting an intuitive user interface, or mentoring junior developers, I approach every challenge with enthusiasm and a commitment to excellence.
                   </p>
                 </div>
 
@@ -74,7 +73,7 @@ const About = () => {
               <CardContent className="p-0 space-y-4">
                 <h3 className="text-xl font-semibold text-foreground">Are you still willing to do it?</h3>
                 <p className="text-muted-foreground">
-                  I’ll create a realistic, actionable roadmap that balances aggressive wealth-building with sustainable growth. This assumes you’re starting with minimal capital but have time, energy, and willingness to learn.
+                  Whether it's architecting a complex backend system, crafting an intuitive user interface, or mentoring junior developers, I approach every challenge with enthusiasm and a commitment to excellence.
                 </p>
               </CardContent>
             </Card>

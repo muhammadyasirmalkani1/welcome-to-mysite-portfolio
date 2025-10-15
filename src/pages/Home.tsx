@@ -63,12 +63,6 @@ const Home = () => {
               to="/contact"
               className="glass-button p-4 rounded-full hover-lift hover:shadow-glow-accent transition-all duration-300"
             >
-              <Facebook className="w-6 h-6" />
-            </a>
-            <a
-              href="http://linkedin.com/in/muhammadyasirmalkani"
-              className="glass-button p-4 rounded-full hover-lift hover:shadow-glow-secondary transition-all duration-300"
-            >
               <Mail className="w-6 h-6" />
             </Link>
           </div>

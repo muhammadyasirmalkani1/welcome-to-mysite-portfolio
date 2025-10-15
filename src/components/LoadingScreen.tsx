@@ -15,7 +15,7 @@ export const LoadingScreen = ({ onComplete }: { onComplete: () => void }) => {
         <img 
           src="/img/DevFort.app.gif" 
           alt="Loading" 
-          className="w-400 h-890 object-contain animate-pulse"
+          className="w-470 h-890 object-contain animate-pulse"
         />
       </div>
     </div>

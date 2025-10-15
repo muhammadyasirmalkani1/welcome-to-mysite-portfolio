@@ -1,4 +1,4 @@
-import { ArrowRight, Download, Github, Linkedin, Facebook, Mail } from "lucide-react";
+import { ArrowRight, Download, Github, Linked, Mail } from "lucide-react";
 import { Link } from "react-router-dom";
 import { Button } from "@/components/ui/button";
 
@@ -24,8 +24,8 @@ const Home = () => {
             </h1>
             
             <p className="text-xl md:text-2xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            Start immediately! To save time, we can securely <span className="gradient-text-secondary font-semibold">prefill</span> 
-              {" "} some of your info, like name, date of birth and address. This isn’t just about AI. So, if you're looking developer for your create website. Who will take you’re a vision and turn it. Sign, up throughly your newly installed components. </p>
+            Start immediately! This isn’t just about AI. To save time, we can securely <span className="gradient-text-secondary font-semibold">prefill</span> 
+              {" "} some of your info, like name, date of birth and address. So, if you're looking developer for your create website. Sign, up throughly your newly installed components. Who will take you’re a vision and turn it.  </p>
           </div>
 
           {/* Call to Action Buttons */}
@@ -62,6 +62,12 @@ const Home = () => {
             <Link
               to="/contact"
               className="glass-button p-4 rounded-full hover-lift hover:shadow-glow-accent transition-all duration-300"
+            >
+              <Facebook className="w-6 h-6" />
+            </a>
+            <a
+              href="http://linkedin.com/in/muhammadyasirmalkani"
+              className="glass-button p-4 rounded-full hover-lift hover:shadow-glow-secondary transition-all duration-300"
             >
               <Mail className="w-6 h-6" />
             </Link>

@@ -24,8 +24,8 @@ const Home = () => {
             </h1>
             
             <p className="text-xl md:text-2xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            Start immediately! To save time, we can securely <span className="gradient-text-secondary font-semibold">prefill</span> 
-              {" "} some of your info, like name, date of birth and address. This isn’t just about AI. So, if you're looking developer for your create website. Who will take you’re a vision and turn it. Sign, up throughly your newly installed components. </p>
+            Let's build the future, one elegant interaction at a <span className="gradient-text-secondary font-semibold">time.</span> 
+              {" "} </p>
           </div>
 
           {/* Call to Action Buttons */}

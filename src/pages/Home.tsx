@@ -20,7 +20,7 @@ const Home = () => {
             <h1 className="text-5xl md:text-7xl font-bold">
               <span className="gradient-text">Let's build the future, one elegant interaction at a </span>
               <br />
-              <span className="text-foreground">insights.</span>
+              <span className="text-foreground">time.</span>
             </h1>
             
             <p className="text-xl md:text-2xl text-muted-foreground max-w-3xl mx-auto leading-relaxed"> <span className="gradient-text-secondary font-semibold"></span> 

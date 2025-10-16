@@ -449,7 +449,7 @@ Here’s what your complete HTML file should look like:
     <hr>
     
     <h3>My Profile Picture</h3>
-    <img src="https://via.placeholder.com/200" alt="Profile picture">
+    <img src="https://imgproxy.gamma.app/resize/quality:80/resizing_type:fit/width:2000/https://cdn.gamma.app/pjdil1ik1bgzc8z/generated-images/gnsnPRDcSbrDAnngxqTBB.png" alt="Profile picture">
     
     <h3>Find Me Online</h3>
     <p>Check out my <a href="https://github.com/yourusername">GitHub profile</a></p>

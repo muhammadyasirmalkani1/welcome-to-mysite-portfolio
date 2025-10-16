@@ -18,9 +18,9 @@ const Home = () => {
           {/* Hero Content */}
           <div className="space-y-6">
             <h1 className="text-5xl md:text-7xl font-bold">
-              <span className="gradient-text">Let's build the future, one elegant interaction at a </span>
+              <span className="gradient-text"></span>
               <br />
-              <span className="text-foreground">time.</span>
+              <span className="text-foreground"></span>
             </h1>
             
             <p className="text-xl md:text-2xl text-muted-foreground max-w-3xl mx-auto leading-relaxed"> <span className="gradient-text-secondary font-semibold"></span> 
